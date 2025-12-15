@@ -22,4 +22,4 @@ jobs:
         shell: cmd
 
       - name: 4. Selesai
-        run: echo "Deployment Berhasil yyy!"
+        run: echo "Deployment Berhasil!"
